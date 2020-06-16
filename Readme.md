@@ -2,6 +2,6 @@
 --------------------------------------------
 1주차 과제
 --------------------------------------------
-*[2주차](https://colab.research.google.com/drive/1wLRs9tIPLOmjRf3u_9ZHO36kvtH412H1)
+* [2주차](https://colab.research.google.com/drive/1wLRs9tIPLOmjRf3u_9ZHO36kvtH412H1)
 
 
