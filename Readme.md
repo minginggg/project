@@ -5,11 +5,11 @@
 
 ----------------------------------------------------
 <h3>2주차 과제(2020.06.14)</h3>
-<h3>[파이썬과 인공지능 기초수학](https://colab.research.google.com/drive/1wLRs9tIPLOmjRf3u_9ZHO36kvtH412H1,"2주차 과제")</h3>
+<h3>[파이썬과 인공지능 기초수학](https://colab.research.google.com/drive/1wLRs9tIPLOmjRf3u_9ZHO36kvtH412H1).</h3>
 ---------------------------------------------------
 
 <h3>3주차 과제(2020.06.14)</h3>
-<h3> [학습룰 최적화, 군집분석 구현, Cost Function 구현](https://colab.research.google.com/drive/1wLRs9tIPLOmjRf3u_9ZHO36kvtH412H1,"3주차")</h3>
+<h3> [학습룰 최적화, 군집분석 구현, Cost Function 구현](https://colab.research.google.com/drive/1wLRs9tIPLOmjRf3u_9ZHO36kvtH412H1).</h3>
 ---------------------------------------------------
 
 
