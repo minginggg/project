@@ -2,7 +2,7 @@
 --------------------------------------------
 1주차 과제 (2020.06.17)
 --------------------------------------------
-* [인공지능 사례 분석](https://colab.research.google.com/drive/14-WsmIzOP10l99j1nYquOBZQOJgVkk3M#scrollTo=OYTfD45sS5mu)
+* [인공지능 사례 분석](https://colab.research.google.com/github/minginggg/project/blob/master/1%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
 
 2주차 과제 (2020.06.14)
 --------------------------------------------
